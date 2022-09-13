@@ -1,0 +1,4 @@
+This game uses these sounds from freesound.org:
+"Porsche 911 GT3 Cup Car Racing in the Distance" by "FritzSounds" (https://freesound.org/people/FritzSounds/sounds/570256/) licensed under CCBYNC 3.0
+"skyline int drive skids 015" by "martian" (https://freesound.org/people/martian/sounds/194701/) licensed under CC0 1.0
+Pick Up sound, Throw sounds, spear sound , https://mixkit.co/free-sound-effects/
